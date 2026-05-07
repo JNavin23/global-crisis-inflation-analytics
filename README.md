@@ -1,7 +1,7 @@
 # Global Crisis & Inflation Analytics Dashboard
 
 ## Project Overview
-This project is an end-to-end SQL and Power BI analytics solution designed to analyze how global war events impact oil prices, inflation rates, shipping disruptions, and economic trends.
+This project is an end-to-end Power BI analytics solution designed to analyze how global war events impact oil prices, inflation rates, shipping disruptions, and economic trends.
 
 The project follows a real-world data analyst workflow:
 - Raw data import
